@@ -1,0 +1,5 @@
+Onderwerp: {SUBJECT}
+
+{MESSAGE}
+
+{EMAIL_SIG}
